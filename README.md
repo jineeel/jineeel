@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20My%20GitHub!✨&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20GitHub!✨&fontSize=40" />
 <h3>😃</h3><br>
 <h2>💻 Skills 💻</h2>
 <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logoColor=white"/>
